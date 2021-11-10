@@ -1,2 +1,3 @@
 # Leetcode-Challenges
- Leetcode challenges
+My Leetcode and some Edabit site coding challenges.
+(Some challenges may be incomplete)
